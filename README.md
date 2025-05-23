@@ -1,5 +1,5 @@
 ## 25w21a update
-The tool just defaults to using the new clouds.png, if you'd like to use clouds_old.png you can just rename the files for now.
+The tool just defaults to using the new clouds.png, if you'd like to use clouds_old.png you can just rename the files for now (or edit cf.py's line 99).
 
 ## General info
 This prints all matching patterns for all 4 different orientations, it wraps the cloud grid around corners, lets you choose whether to search the pattern from the bottom or from the top, supports both fast and fancy clouds and given a block range automatically generates all the possible z coordinates within it.
